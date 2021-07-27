@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eO1RilqOKt1GiuL31xq2w4ZbV2cwUhzwQgduWgs9RZ0vKQDEexeYxxm71vCRXZzLldRG37n6kwl8SjaGDWAY+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thuss\\Documents\\GitHub\\kandua-fork\\c#\\KanduaProblemSet\\TargetSumExists\\TargetSumExists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thuss\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\thuss\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\thuss\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\thuss\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\thuss\Documents\GitHub\kandua-fork\c#\KanduaProblemSet\TargetSumExists\bin\Debug\netcoreapp3.0\TargetSumExists.exe
+C:\Users\thuss\Documents\GitHub\kandua-fork\c#\KanduaProblemSet\TargetSumExists\bin\Debug\netcoreapp3.0\TargetSumExists.deps.json
+C:\Users\thuss\Documents\GitHub\kandua-fork\c#\KanduaProblemSet\TargetSumExists\bin\Debug\netcoreapp3.0\TargetSumExists.runtimeconfig.json
+C:\Users\thuss\Documents\GitHub\kandua-fork\c#\KanduaProblemSet\TargetSumExists\bin\Debug\netcoreapp3.0\TargetSumExists.runtimeconfig.dev.json
+C:\Users\thuss\Documents\GitHub\kandua-fork\c#\KanduaProblemSet\TargetSumExists\bin\Debug\netcoreapp3.0\TargetSumExists.dll
+C:\Users\thuss\Documents\GitHub\kandua-fork\c#\KanduaProblemSet\TargetSumExists\bin\Debug\netcoreapp3.0\TargetSumExists.pdb
+C:\Users\thuss\Documents\GitHub\kandua-fork\c#\KanduaProblemSet\TargetSumExists\obj\Debug\netcoreapp3.0\TargetSumExists.csprojAssemblyReference.cache
+C:\Users\thuss\Documents\GitHub\kandua-fork\c#\KanduaProblemSet\TargetSumExists\obj\Debug\netcoreapp3.0\TargetSumExists.AssemblyInfoInputs.cache
+C:\Users\thuss\Documents\GitHub\kandua-fork\c#\KanduaProblemSet\TargetSumExists\obj\Debug\netcoreapp3.0\TargetSumExists.AssemblyInfo.cs
+C:\Users\thuss\Documents\GitHub\kandua-fork\c#\KanduaProblemSet\TargetSumExists\obj\Debug\netcoreapp3.0\TargetSumExists.csproj.CoreCompileInputs.cache
+C:\Users\thuss\Documents\GitHub\kandua-fork\c#\KanduaProblemSet\TargetSumExists\obj\Debug\netcoreapp3.0\TargetSumExists.dll
+C:\Users\thuss\Documents\GitHub\kandua-fork\c#\KanduaProblemSet\TargetSumExists\obj\Debug\netcoreapp3.0\TargetSumExists.pdb
+C:\Users\thuss\Documents\GitHub\kandua-fork\c#\KanduaProblemSet\TargetSumExists\obj\Debug\netcoreapp3.0\TargetSumExists.genruntimeconfig.cache

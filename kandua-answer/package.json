@@ -1,0 +1,22 @@
+{
+  "name": "kandua-problem-set",
+  "version": "1.0.0",
+  "description": "Show us your skills! This template repo contains two little JavaScript problems. Depending on your familiarity with the language & constructs, each problem is expected to take between 5 and 60 minutes. Start with whichever you fancy.",
+  "main": "js/repeating-function/repeating-function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/super-cache-money/kandua-problem-set.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/super-cache-money/kandua-problem-set/issues"
+  },
+  "homepage": "https://github.com/super-cache-money/kandua-problem-set#readme",
+  "dependencies": {
+    "tape": "5.1.1"
+  }
+}
